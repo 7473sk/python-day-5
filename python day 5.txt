@@ -1,0 +1,12 @@
+length=len("jenny khatri")
+print ("your name has"+ str(length)+"characters")
+new_length=str(length)
+print(type(new_length))
+print(type(length))
+
+print(int("10")+ int("10"))
+print(10+float("10"))
+
+first_number=input("Enter your number")
+secound_number=input("Enter your number")
+print(int(first_number+secound_number))
